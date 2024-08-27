@@ -1,5 +1,7 @@
 # Box2D YouTube Playlist
 
+![Box2D Banner](box2d_banner.png)
+
 Welcome to the Box2D YouTube Playlist repository! This repository accompanies a YouTube playlist dedicated to learning and working with the Box2D physics engine.
 
 ## Playlist Overview
