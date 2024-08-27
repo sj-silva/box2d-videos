@@ -1,0 +1,22 @@
+# Visual Studio specific files
+.vs/
+*.vcxproj.user
+*.vcxproj.filters
+*.VC.opendb
+*.VC.db
+*.suo
+*.exe
+*.pdb
+*.ilk
+*.ipch
+*.obj
+*.log
+*.tlog
+*.lastbuildstate
+*.sdf
+*.opensdf
+*.cachefile
+*.ncb
+*.userprefs
+
+# Visual Studio Code specific
